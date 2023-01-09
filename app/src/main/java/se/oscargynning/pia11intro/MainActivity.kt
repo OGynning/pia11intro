@@ -21,7 +21,7 @@ class MainActivity : AppCompatActivity() {
         myText =  findViewById<TextView>(R.id.fancyText)
 
 
-        myText.text = "hopp"
+        myText.text = "hej"
 
 
 
